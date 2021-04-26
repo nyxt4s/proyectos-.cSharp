@@ -1,0 +1,10 @@
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\bin\Debug\Laboratorio 13 Gridview.exe.config
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\bin\Debug\Laboratorio 13 Gridview.exe
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\bin\Debug\Laboratorio 13 Gridview.pdb
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\obj\Debug\Laboratorio 13 Gridview.csprojAssemblyReference.cache
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\obj\Debug\Laboratorio_13_Gridview.Form1.resources
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\obj\Debug\Laboratorio_13_Gridview.Properties.Resources.resources
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\obj\Debug\Laboratorio 13 Gridview.csproj.GenerateResource.cache
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\obj\Debug\Laboratorio 13 Gridview.exe
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\obj\Debug\Laboratorio 13 Gridview.pdb
+D:\Programacion\Visual Studio\Laboratorio 13 Gridview\Laboratorio 13 Gridview\obj\Debug\Laboratorio 13 Gridview.csproj.CoreCompileInputs.cache

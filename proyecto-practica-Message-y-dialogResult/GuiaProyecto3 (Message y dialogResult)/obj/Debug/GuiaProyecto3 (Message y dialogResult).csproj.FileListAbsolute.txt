@@ -1,0 +1,21 @@
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\bin\Debug\GuiaProyecto3 (Message y dialogResult).exe.config
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\bin\Debug\GuiaProyecto3 (Message y dialogResult).exe
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\bin\Debug\GuiaProyecto3 (Message y dialogResult).pdb
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3 (Message y dialogResult).csprojAssemblyReference.cache
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3__Message_y_dialogResult_.Form1.resources
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3__Message_y_dialogResult_.Properties.Resources.resources
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3 (Message y dialogResult).csproj.GenerateResource.cache
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3 (Message y dialogResult).exe
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3 (Message y dialogResult).pdb
+C:\Users\NYXTH\source\repos\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3__Message_y_dialogResult_.Form2.resources
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\bin\Debug\GuiaProyecto3 (Message y dialogResult).exe.config
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\bin\Debug\GuiaProyecto3 (Message y dialogResult).exe
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\bin\Debug\GuiaProyecto3 (Message y dialogResult).pdb
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3 (Message y dialogResult).csprojAssemblyReference.cache
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3__Message_y_dialogResult_.Form1.resources
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3__Message_y_dialogResult_.Form2.resources
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3__Message_y_dialogResult_.Properties.Resources.resources
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3 (Message y dialogResult).csproj.GenerateResource.cache
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3 (Message y dialogResult).csproj.CoreCompileInputs.cache
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3 (Message y dialogResult).exe
+D:\Programacion\Visual Studio\GuiaProyecto3 (Message y dialogResult)\GuiaProyecto3 (Message y dialogResult)\obj\Debug\GuiaProyecto3 (Message y dialogResult).pdb

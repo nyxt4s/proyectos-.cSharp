@@ -1,0 +1,19 @@
+C:\Users\NYXTH\source\repos\modulo11form\modulo11form\bin\Debug\modulo11form.exe.config
+C:\Users\NYXTH\source\repos\modulo11form\modulo11form\bin\Debug\modulo11form.exe
+C:\Users\NYXTH\source\repos\modulo11form\modulo11form\bin\Debug\modulo11form.pdb
+C:\Users\NYXTH\source\repos\modulo11form\modulo11form\obj\Debug\modulo11form.csprojAssemblyReference.cache
+C:\Users\NYXTH\source\repos\modulo11form\modulo11form\obj\Debug\modulo11form.Form1.resources
+C:\Users\NYXTH\source\repos\modulo11form\modulo11form\obj\Debug\modulo11form.Properties.Resources.resources
+C:\Users\NYXTH\source\repos\modulo11form\modulo11form\obj\Debug\modulo11form.csproj.GenerateResource.cache
+C:\Users\NYXTH\source\repos\modulo11form\modulo11form\obj\Debug\modulo11form.exe
+C:\Users\NYXTH\source\repos\modulo11form\modulo11form\obj\Debug\modulo11form.pdb
+D:\Programacion\Visual Studio\modulo11form\modulo11form\bin\Debug\modulo11form.exe.config
+D:\Programacion\Visual Studio\modulo11form\modulo11form\bin\Debug\modulo11form.exe
+D:\Programacion\Visual Studio\modulo11form\modulo11form\bin\Debug\modulo11form.pdb
+D:\Programacion\Visual Studio\modulo11form\modulo11form\obj\Debug\modulo11form.csprojAssemblyReference.cache
+D:\Programacion\Visual Studio\modulo11form\modulo11form\obj\Debug\modulo11form.Form1.resources
+D:\Programacion\Visual Studio\modulo11form\modulo11form\obj\Debug\modulo11form.Properties.Resources.resources
+D:\Programacion\Visual Studio\modulo11form\modulo11form\obj\Debug\modulo11form.csproj.GenerateResource.cache
+D:\Programacion\Visual Studio\modulo11form\modulo11form\obj\Debug\modulo11form.csproj.CoreCompileInputs.cache
+D:\Programacion\Visual Studio\modulo11form\modulo11form\obj\Debug\modulo11form.exe
+D:\Programacion\Visual Studio\modulo11form\modulo11form\obj\Debug\modulo11form.pdb
